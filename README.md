@@ -1,5 +1,7 @@
 # go2 proprosal: universal WrapError type
 
+Discussion in [this github issue](https://github.com/golang/go/issues/36994).
+
 This is a go2 proposal in the context of error wrapping. 
 It is a concrete follow up to the more open ended [#35929 (errors: how should formatting be handled?)](https://github.com/golang/go/issues/35929).
 
